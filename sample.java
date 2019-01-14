@@ -1,4 +1,4 @@
-public class PrimitiveParameters
+public class sample
 {	
 	public static void main(String[] args)
 	{	go();

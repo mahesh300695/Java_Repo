@@ -11,7 +11,7 @@ public class sample
 		falseSwap(x,y);
 		System.out.println("in method go. x: " + x + " y: " + y);
 		moreParameters(x,y);
-		System.out.println("in method go. x: " + x + " y: " + y);
+		System.out.println("in method Go. x: " + x + " y: " + y);
 	}
 	
 	public static void falseSwap(int x, int y)
